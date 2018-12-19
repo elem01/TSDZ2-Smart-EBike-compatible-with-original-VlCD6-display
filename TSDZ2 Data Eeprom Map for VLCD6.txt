@@ -11,7 +11,7 @@
 0x00400B DEFAULT_VALUE_OFFROAD_CONFIG                    					0 	// bit0: enable offroad, bit1: enable offroad on startup, bit2: enable offroad power limit
 0x00400C DEFAULT_VALUE_OFFROAD_SPEED_LIMIT               					25 	// 25km/h
 0x00400D DEFAULT_VALUE_OFFROAD_POWER_LIMIT_DIV25         					10 	// 10 * 25 = 250W
-//----------------------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------------------------------
 0x00400E DEFAULT_VALUE_BATTERY_CELLS_NUMBER												10 	// 10 cells = 36V
 0x00400F DEFAULT_VALUE_BATTERY_PACK_RESISTANCE_0									196	// 196 milli ohms, battery pack 36V 10S5P
 0x004010 DEFAULT_VALUE_BATTERY_PACK_RESISTANCE_1									0

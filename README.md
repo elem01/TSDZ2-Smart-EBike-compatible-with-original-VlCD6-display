@@ -1,5 +1,5 @@
 # TSDZ2-Smart-EBike-compatible-with-original-VLCD6-display
-This project is based on the TSDZ2-Smart-EBike repository, but is also compatible with the original VLCD6 display (VLCD5 and HX18 not tested).
+This project is based on the TSDZ2-Smart-EBike repository, but is also compatible with the original VLCD6 display (it should also work with VLCD5 and HX18).
 - The walk assist function has been implemented and it works with 5 level of assistance.
 - Implemented Java user interface (TDSZ2 Configurator), useful to configure many parameters of program memory and data memory (eeprom) of   the controller.
 - The TDSZ2 Configurator run with JRE runtime.... so it must be installed!

@@ -3,6 +3,7 @@ This project is based on the TSDZ2-Smart-EBike repository, but is also compatibl
 - The walk assist function has been implemented and it works with 5 level of assistance.
 - Implemented Java user interface (TDSZ2 Configurator), useful to configure many parameters of program memory and data memory (eeprom) of   the controller.
 - The TDSZ2 Configurator run with JRE runtime.... so it must be installed!
+- The SDCC compiler must be installed!
 - Using TDSZ2 Configurator you can enable the use of both type of display KT-LCD3 and VLCD6 (compatible also VLCD5 and XH18).
 - The light-gray fields of the TSDZ2 Configurator are reserved for "expert users".
 - Using TDSZ2 Configurator you can save configuration files (.ini) and move them from experimental settings folder to proven settings.

@@ -8,6 +8,7 @@ This project is based on the TSDZ2-Smart-EBike repository, but is also compatibl
 - The light-gray fields of the TSDZ2 Configurator are reserved for "expert users".
 - Using TDSZ2 Configurator you can save configuration files (.ini) and move them from experimental settings folder to proven settings.
 - by clicking the "help" button, a pdf document will open. It contains information regarding the user interface parameters and addresses     related to eeprom memory.
+
 In the firmware M0.16.D of the motor and in the software 0.2.0 of the java configurator some improvements have been implemented:
 - The Lights, Street and Power Boost functions can be activated by the lights button (button down for VLCD6) without one function
   excluding the other.

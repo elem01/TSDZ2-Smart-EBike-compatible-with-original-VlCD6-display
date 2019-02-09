@@ -19,6 +19,7 @@ Walk Assist Off Delay mode works only when Assist Level 1 is set.
 - 2 To re-enable the OFFROAD function (Default), refer to point 1, but in this case the displayed code will be E04.
 - 3 To enable (E05) or disable (E01) the POWER BOOST function, select Assist Level 2, then refer to point 1.
 - 4 To restore the default functions (E02) (OFFROAD enabled, POWER BOST disabled), select Assit Level 0, then refer to step 1 again.
-I want to remember that to turn on the lights (if enabled) in the Assit levels 0, 1, 2, you have to press the lights key for 2 seconds, release it and the lights will turn on after 5 seconds ... ignore the codes that will appear on the display, the functions will be aborted automatically. In Assit Levels 3 and 4, the lights will light on immediately after pressing the button for 2 seconds.
+
+I want remind you that to turn on the lights (if enabled) in the Assit levels 0, 1, 2, you have to press the lights key for 2 seconds, release it and the lights will turn on after 5 seconds ... ignore the codes that will appear on the display, the functions will be aborted automatically. In Assit Levels 3 and 4, the lights will light on immediately after pressing the button for 2 seconds.
 This is a Beta release, not all features have been verified, so I leave the user the opportunity to do any tests, this will allow me to receive your impressions.
 
